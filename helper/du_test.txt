@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Question": "What is the total number of students (both residential and non-residential) attached to Bijoy Ekattor Hall?",
+    "Answer": "Nearly 3300 students"
+  },
+  {
+    "Question": "In what year did Bijoy Ekattor Hall officially begin housing students?",
+    "Answer": "2013"
+  },
+  {
+    "Question": "What kind of human qualities does Bijoy Ekattor Hall aim to instill in its students?",
+    "Answer": "Pragmatic, life-oriented, and humanitarian"
+  },
+  {
+    "Question": "What institution is the parent body of Bijoy Ekattor Hall?",
+    "Answer": "University of Dhaka"
+  },
+  {
+    "Question": "What is the approximate number of non-residential students associated with the hall?",
+    "Answer": "1600"
+  },
+  {
+    "Question": "What essential role do the residential halls of Dhaka University play in the university's overall success?",
+    "Answer": "They played important roles in every outstanding achievement of the university."
+  },
+  {
+    "Question": "Which club focuses on debating in Bijoy Ekattor Hall?",
+    "Answer": "Debating Club"
+  },
+  {
+    "Question": "What arrangement does the hall administration make regularly for resident students?",
+    "Answer": "Seats are allotted on a regular basis."
+  },
+  {
+    "Question": "Besides Badhon, what is the name of the other club explicitly mentioned in the passage?",
+    "Answer": "Debating Club"
+  },
+  {
+    "Question": "What is provided to learners in the hall in addition to their regular academic activities?",
+    "Answer": "Facilities and opportunities regarding extra-curricular activities."
+  },
+  {
+    "Question": "Who is responsible for maintaining regular connection with the learners in the hall?",
+    "Answer": "House tutors"
+  },
+  {
+    "Question": "What is the primary aim of holistic development for students at the hall?",
+    "Answer": "Preparing them to cope with any kind of situation."
+  },
+  {
+    "Question": "What kind of activities, complementary to academics, do the house tutors encourage?",
+    "Answer": "Co-curricular activities"
+  },
+  {
+    "Question": "What word is used to describe the nature of the Bijoy Ekattor Hall administration?",
+    "Answer": "Student-friendly"
+  },
+  {
+    "Question": "The objective of the hall includes creating an environment for what kind of participation?",
+    "Answer": "Learners participate in co-curricular activities complementary to academic pursuits."
+  },
+  {
+    "Question": "How many residential students are there currently?",
+    "Answer": "1700"
+  },
+  {
+    "Question": "Which areas of extra-curricular activities does the hall support?",
+    "Answer": "Literature, culture, and sports activities."
+  },
+  {
+    "Question": "What is the core focus of the hall's commitment regarding the learners' future?",
+    "Answer": "To ensure a better life and achievement of excellence for the learners."
+  },
+  {
+    "Question": "What phrase describes the kind of recreational activities available in the hall?",
+    "Answer": "Different arrangements for recreational activities are available in the hall."
+  },
+  {
+    "Question": "What type of human being, according to the hall's goal, is considered 'complete'?",
+    "Answer": "Pragmatic, life-oriented, humanitarian, and complete human beings."
+  }
+]

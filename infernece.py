@@ -1,15 +1,40 @@
-from transformers import T5ForConditionalGeneration, T5Tokenizer
+from utils.inference_utils.SampleData import get_test_dataframe
+from datasets import Dataset
+from utils.inference_utils.MainInferenceMethod import run_inference
+from utils.DeviceChoice import get_device
 
-def run_inference_base(question, model, tokenizer):
-    """Run inference with the base model."""
-    input_text = f"question: {question} context: "
-    input_ids = tokenizer.encode(input_text, return_tensors="pt")
-    outputs = model.generate(input_ids, max_length=128)
-    return tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
 
-def run_inference(question, model, tokenizer):
-    """Run inference with the fine-tuned model."""
-    input_text = f"question: {question} context: "
-    input_ids = tokenizer.encode(input_text, return_tensors="pt")
-    outputs = model.generate(input_ids, max_length=128)
-    return tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
+DEVICE = get_device()
+print(f"Using device: {DEVICE}")
+
+
+
+
+test_df = get_test_dataframe()
+print(test_df)
+
+# Convert to Hugging Face Dataset
+test_dataset = Dataset.from_pandas(test_df)
+print(f"Test data loaded: {len(test_dataset)} samples.")
+
+predictions = []
+
+
+
+for i, example in enumerate(test_dataset):
+    print(f"Processing sample {i + 1}/{len(test_dataset)}...")
+
+
+    # 2. Generate the prediction
+    predicted_answer = run_inference(example)
+
+    # 3. Store the result
+    predictions.append({
+        "Question": example["Question"],
+        "Context": example.get("Context", ""),
+        "Predicted Answer": predicted_answer,
+    })
+
+    # Optional: Print the result for immediate inspection
+    print(f"   Q: {example['Question']}")
+    print(f"   A: {predicted_answer}\n")

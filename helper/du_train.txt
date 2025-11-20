@@ -1,0 +1,1332 @@
+﻿[
+ {
+    "Question": "What is the name of the hall described in the passage?",
+    "Answer": "Bijoy Ekattor Hall"
+  },
+  {
+    "Question": "When did Bijoy Ekattor Hall start boarding students?",
+    "Answer": "2013"
+  },
+  {
+    "Question": "How many students are attached to Bijoy Ekattor Hall at present?",
+    "Answer": "Nearly 3300 students"
+  },
+  {
+    "Question": "How many residential students are there in Bijoy Ekattor Hall?",
+    "Answer": "1700"
+  },
+  {
+    "Question": "How many non-residential students are attached to Bijoy Ekattor Hall?",
+    "Answer": "1600"
+  },
+  {
+    "Question": "Which university is Bijoy Ekattor Hall a part of?",
+    "Answer": "University of Dhaka"
+  },
+  {
+    "Question": "What role have the residential halls of Dhaka University played in its achievements?",
+    "Answer": "They played important roles in every outstanding achievement of the university."
+  },
+  {
+    "Question": "What is one of the main objectives of establishing Bijoy Ekattor Hall?",
+    "Answer": "To create an environment where learners participate in co-curricular activities complementary to academic pursuits."
+  },
+  {
+    "Question": "What kind of human beings does Bijoy Ekattor Hall aim to develop?",
+    "Answer": "Pragmatic, life-oriented, humanitarian, and complete human beings."
+  },
+  {
+    "Question": "How many students does Bijoy Ekattor Hall currently accommodate as residents?",
+    "Answer": "1700"
+  },
+  {
+    "Question": "What are some examples of extra-curricular activities supported by Bijoy Ekattor Hall?",
+    "Answer": "Literature, culture, and sports activities."
+  },
+  {
+    "Question": "Name two clubs mentioned as existing in Bijoy Ekattor Hall.",
+    "Answer": "Badhon and Debating Club"
+  },
+  {
+    "Question": "What type of activities does Bijoy Ekattor Hall arrange for recreation?",
+    "Answer": "Different arrangements for recreational activities are available in the hall."
+  },
+  {
+    "Question": "Who stays regularly connected to the learners in Bijoy Ekattor Hall?",
+    "Answer": "House tutors"
+  },
+  {
+    "Question": "What does the hall administration do regarding seat allotment?",
+    "Answer": "Seats are allotted on a regular basis."
+  },
+  {
+    "Question": "How is the hall administration described in the passage?",
+    "Answer": "Student-friendly"
+  },
+  {
+    "Question": "What does Bijoy Ekattor Hall provide along with regular academic activities?",
+    "Answer": "Facilities and opportunities regarding extra-curricular activities."
+  },
+  {
+    "Question": "What is one of the important responsibilities of the hall administration?",
+    "Answer": "To ensure every kind of facilities and opportunities to the learners."
+  },
+  {
+    "Question": "How does Bijoy Ekattor Hall help students in their personal and professional lives?",
+    "Answer": "By preparing them to cope with any kind of situation through holistic development."
+  },
+  {
+    "Question": "What is the commitment of the hall administration according to the passage?",
+    "Answer": "To ensure a better life and achievement of excellence for the learners."
+  },
+
+
+  {
+    "Question": "What is one of the important responsibilities of the hall administration?",
+    "Answer": "To ensure every kind of facilities and opportunities to the learners."
+  },
+  {
+    "Question": "How does Bijoy Ekattor Hall help students in their personal and professional lives?",
+    "Answer": "By preparing them to cope with any kind of situation through holistic development."
+  },
+  {
+    "Question": "What is the commitment of the hall administration according to the passage?",
+    "Answer": "To ensure a better life and achievement of excellence for the learners."
+  },
+  {
+    "Question": "In what year was the University of Dhaka established?",
+    "Answer": "1921"
+  },
+  {
+    "Question": "Who was the first Vice-Chancellor of the University of Dhaka?",
+    "Answer": "Sir P.J. Hartog"
+  },
+  {
+    "Question": "On what date did the University of Dhaka officially open its doors to students?",
+    "Answer": "The first day of July 1921 (July 1, 1921)"
+  },
+  {
+    "Question": "What was the initial area of land (in acres) on which the University was set up?",
+    "Answer": "600 acres"
+  },
+  {
+    "Question": "What famous nickname is Dhaka University often referred to?",
+    "Answer": "Oxford of the East"
+  },
+  {
+    "Question": "How many faculties did the University of Dhaka start with in 1921?",
+    "Answer": "3 faculties (Arts, Science, and Law)"
+  },
+  {
+    "Question": "What was the initial number of departments when the University began its activities?",
+    "Answer": "12 departments"
+  },
+  {
+    "Question": "How many students were initially enrolled when Dhaka University opened?",
+    "Answer": "877 students"
+  },
+  {
+    "Question": "What was the initial number of residential halls (dormitories) when the University started?",
+    "Answer": "3 dormitories/halls"
+  },
+  {
+    "Question": "Name one of the first three residential halls established in 1921.",
+    "Answer": "Salimullah Muslim Hall, Jagannath Hall, or Dhaka Hall"
+  },
+  {
+    "Question": "Who was the Chancellor of the University of Dhaka at the time of its first Convocation in 1923?",
+    "Answer": "Lord Lytton (Governor of Bengal and Chancellor)"
+  },
+  {
+    "Question": "What was the main political event in which DU students and faculty played a central role in 1952?",
+    "Answer": "The historic Language Movement"
+  },
+  {
+    "Question": "The establishment of DU was considered compensation for the annulment of which major political event?",
+    "Answer": "The 1905 Partition of Bengal"
+  },
+  {
+    "Question": "Who donated 600 acres of land from his estate for the purpose of establishing Dhaka University?",
+    "Answer": "Nawab Bahadur Sir Khwaja Salimullah"
+  },
+  {
+    "Question": "Which committee, constituted by the British Government, recommended the establishment of a tertiary level educational institution in East Bengal in 1912?",
+    "Answer": "Nathan Committee"
+  },
+  {
+    "Question": "In which city area was the University of Dhaka set up?",
+    "Answer": "Ramna"
+  },
+  {
+    "Question": "Which historical building served as the first institute of the University of Dhaka, initially belonging to Dhaka College?",
+    "Answer": "Curzon Hall"
+  },
+  {
+    "Question": "How many faculties does the University of Dhaka consist of at present (based on the provided data)?",
+    "Answer": "13 faculties"
+  },
+  {
+    "Question": "What is the approximate current number of departments at the University of Dhaka (based on the provided data)?",
+    "Answer": "83 departments (or 84)"
+  },
+  {
+    "Question": "How many residential halls and hostels does the University currently have (based on the provided data)?",
+    "Answer": "20 residential halls and 3 hostels"
+  },
+  {
+    "Question": "What is the approximate current total number of students at the University of Dhaka (based on the provided data)?",
+    "Answer": "About 37,018 students (or nearly 37,000)"
+  },
+  {
+    "Question": "Approximately how many teachers (faculty members) does the University of Dhaka have at present (based on the provided data)?",
+    "Answer": "1,992 teachers (or 2000+)"
+  },
+  {
+    "Question": "What was the initial character of Dhaka University, which was modeled after Oxford University?",
+    "Answer": "Non-affiliating, residential character"
+  },
+  {
+    "Question": "What major national event was the University of Dhaka the epicenter of in 1971?",
+    "Answer": "The 1971 Genocide/Liberation War"
+  },
+  {
+    "Question": "How many community members (teachers, students, staff, etc.) did the university lose during the Liberation War?",
+    "Answer": "194 members"
+  },
+  {
+    "Question": "What act restored autonomy and a democratic atmosphere to the University of Dhaka in 1973?",
+    "Answer": "The Dacca University Order of 1973 (or University of Dhaka Order 1973)"
+  },
+  {
+    "Question": "In which year did the Department of Political Science become a separate entity?",
+    "Answer": "1938"
+  },
+  {
+    "Question": "Which department's establishment is linked to Professor Qazi Motahar Husain's vision and perseverance?",
+    "Answer": "Department of Statistics"
+  },
+  {
+    "Question": "Who is the Nobel Laureate alumni of the University of Dhaka, known for pioneering microcredit?",
+    "Answer": "Muhammad Yunus"
+  },
+  {
+    "Question": "Which famous physicist and DU alumnus is known for Bose–Einstein statistics?",
+    "Answer": "Satyendra Nath Bose"
+  },
+  {
+    "Question": "Who is the Dhaka University alumnus credited as the 'Father of the Nation' of Bangladesh?",
+    "Answer": "Sheikh Mujibur Rahman"
+  },
+  {
+    "Question": "Who was the first Provost of Salimullah Muslim Hall?",
+    "Answer": "Ahmed Fazlur Rahman"
+  },
+  {
+    "Question": "In which year was the Department of International Relations established?",
+    "Answer": "1947"
+  },
+  {
+    "Question": "The Faculty of Commerce was renamed to which current faculty in 1995?",
+    "Answer": "Faculty of Business Studies"
+  },
+  {
+    "Question": "What is the name of the scholarship introduced for the teachers of DU in line with carrying the tradition of knowledge and research?",
+    "Answer": "Bangabandhu Overseas Scholarship"
+  },
+  {
+    "Question": "What percentage of Bangladesh's trained human resources (in fields like education, science, administration, etc.) does DU currently provide (based on the provided data)?",
+    "Answer": "About 70%"
+  },
+  {
+    "Question": "What year was the Institute of Business Administration (IBA) established?",
+    "Answer": "1966"
+  },
+  {
+    "Question": "In what year did the Dacca University Act, Act No. XVIII, receive the assent of the Governor General?",
+    "Answer": "1920 (March 23)"
+  },
+  {
+    "Question": "Which department was renamed to Accounting & Information Systems in November 2002?",
+    "Answer": "Department of Accounting"
+  },
+  {
+    "Question": "What was the name of the former Dhaka University Vice-Chancellor who was assassinated by the Pakistan army on March 25, 1971?",
+    "Answer": "Professor A N M Muniruzzaman"
+  },
+  {
+    "Question": "What major organization was founded by DU alumnus Sir Fazle Hasan Abed?",
+    "Answer": "BRAC"
+  },
+  {
+    "Question": "Which DU alumnus founded Bandhan Bank in India?",
+    "Answer": "Chandra Shekhar Ghosh"
+  },
+  {
+    "Question": "How many undergraduate students enroll annually at Dhaka University (based on the provided data)?",
+    "Answer": "Over 5,800 undergraduate students"
+  },
+  {
+    "Question": "Which three Faculties were present when the University began its journey in 1921?",
+    "Answer": "Arts, Science, and Law"
+  },
+  {
+    "Question": "Who was the playwright and faculty member who was martyred in 1971 and is an alumnus of DU?",
+    "Answer": "Munier Choudhury"
+  },
+  {
+    "Question": "What is the name of the Institute established in 1961 with Dr. G.D Morison as its first Director?",
+    "Answer": "Institute of Education and Research (IER)"
+  },
+  {
+    "Question": "Which department, currently under the Science Faculty, was initiated in 1950?",
+    "Answer": "Department of Statistics"
+  },
+  {
+    "Question": "Who was the Vice-Chancellor of Calcutta University who opposed the creation of Dhaka University?",
+    "Answer": "Asutosh Mukherjee"
+  },
+  {
+    "Question": "What is the main purpose of the University of Dhaka, according to its mission?",
+    "Answer": "To create new areas of knowledge and disseminate such knowledge nationally as well as globally."
+  },
+  {
+    "Question": "What is the name of the hall established in 1940?",
+    "Answer": "Fazlul Haq Muslim Hall"
+  },
+  {
+    "Question": "What is the Bengali name for the University of Dhaka?",
+    "Answer": "ঢাকা বিশ্ববিদ্যালয় (Dhaka Bishshobiddyaloy)"
+  },
+  {
+    "Question": "What is the common acronym used for the University of Dhaka?",
+    "Answer": "DU"
+  },
+  {
+    "Question": "What type of educational institution is the University of Dhaka?",
+    "Answer": "A public research university"
+  },
+  {
+    "Question": "Which Act of the Indian Legislative Council established the University of Dhaka?",
+    "Answer": "The Dacca University Act 1920"
+  },
+  {
+    "Question": "What was the initial area of land (in acres) where the University was set up?",
+    "Answer": "600 acres"
+  },
+  {
+    "Question": "The University of Dhaka is modeled after which type of universities?",
+    "Answer": "British universities"
+  },
+  {
+    "Question": "What is the current approximate size of the student body at DU?",
+    "Answer": "46,150 students (or nearly 37,000 students)"
+  },
+  {
+    "Question": "What is the current approximate number of faculty members at DU?",
+    "Answer": "1,992 teachers (or 2,000+)"
+  },
+  {
+    "Question": "In what two major national movements did DU students and teachers play a central role?",
+    "Answer": "The Language Movement and the Liberation War (1971)"
+  },
+  {
+    "Question": "Who is the DU alumnus known for developing Bose–Einstein statistics?",
+    "Answer": "Satyendra Nath Bose"
+  },
+  {
+    "Question": "Who is the DU alumnus who won the Nobel Peace Prize in 2006?",
+    "Answer": "Muhammad Yunus"
+  },
+  {
+    "Question": "What system did Nobel Laureate Muhammad Yunus pioneer?",
+    "Answer": "Microcredit"
+  },
+  {
+    "Question": "Which hall's building served as the first institute of the university?",
+    "Answer": "Curzon Hall"
+  },
+  {
+    "Question": "The establishment of DU was compensation for the annulment of which political event?",
+    "Answer": "The 1905 Partition of Bengal"
+  },
+  {
+    "Question": "Who demanded a university in Dhaka after the annulment of the Bengal Partition to appease the majority Muslim masses of East Bengal?",
+    "Answer": "A Muslim delegation led by Nawab Sir Khwaja Salimullah Bahadur"
+  },
+  {
+    "Question": "Who was the first Vice-Chancellor of the University of Dhaka?",
+    "Answer": "Philip Joseph Hartog"
+  },
+  {
+    "Question": "Who was the Governor of Bengal who served as DU's first Chancellor?",
+    "Answer": "Lord Ronaldshay"
+  },
+  {
+    "Question": "Who did Lord Ronaldshay appoint as a Provost on Nawaab Syed Shamsul Huda's recommendation?",
+    "Answer": "Ahmad Fazlur Rahman"
+  },
+  {
+    "Question": "In what year did the Dhaka University Alumni Association (DUAA) start operating?",
+    "Answer": "1949 (September 24)"
+  },
+  {
+    "Question": "What is the primary mission of the Dhaka University Alumni Association (DUAA)?",
+    "Answer": "To create a dynamic network among alumni and contribute to the future of the alma mater"
+  },
+  {
+    "Question": "What is the basis for the awards given by the DUAA Scholarship Program?",
+    "Answer": "Merit-Based (recognizing academic excellence, leadership, and community commitment)"
+  },
+  {
+    "Question": "What is the total number of Faculties at the University of Dhaka currently (as per the data)?",
+    "Answer": "13 Faculties"
+  },
+  {
+    "Question": "What is the current approximate number of Departments at the University of Dhaka (as per the data)?",
+    "Answer": "83 or 84 Departments"
+  },
+  {
+    "Question": "How many Institutes does the University of Dhaka currently have (as per the data)?",
+    "Answer": "12 or 13 Institutes"
+  },
+  {
+    "Question": "How many residential halls and hostels does the University of Dhaka currently have in total?",
+    "Answer": "20 residential halls and 3 hostels (23 total accommodations)"
+  },
+  {
+    "Question": "What is the main purpose/mission of the University of Dhaka?",
+    "Answer": "To create new areas of knowledge and disseminate this knowledge to the society."
+  },
+  {
+    "Question": "What are the three original Faculties that started the University's journey in 1921?",
+    "Answer": "Arts, Science, and Law"
+  },
+  {
+    "Question": "What year was the University's first Convocation held?",
+    "Answer": "1923 (February 22)"
+  },
+  {
+    "Question": "Who was the convocation speaker at the University's first Convocation in 1923?",
+    "Answer": "Lord Lytton (Governor of Bengal and Chancellor)"
+  },
+  {
+    "Question": "In which year did the Department of Political Science become a separate department?",
+    "Answer": "1938"
+  },
+  {
+    "Question": "Which residential hall was established in 1940?",
+    "Answer": "Fazlul Haq Muslim Hall"
+  },
+  {
+    "Question": "Which department was established in 1947?",
+    "Answer": "Department of International Relations"
+  },
+  {
+    "Question": "What was the major political event that occurred in 1952 in which DU played the central role?",
+    "Answer": "The Language Movement"
+  },
+  {
+    "Question": "What language did the Language Movement ultimately culminate in the recognition of as the State Language?",
+    "Answer": "Bangla"
+  },
+  {
+    "Question": "In what year was the Department of Statistics initiated in the Science Faculty?",
+    "Answer": "1950"
+  },
+  {
+    "Question": "Which hall, established in 1957, was later renamed Sgt. Zahurul Huq Hall in 1972?",
+    "Answer": "Iqbal Hall"
+  },
+  {
+    "Question": "What is the current name of the Department of Library Science, opened in 1959?",
+    "Answer": "Department of Information Science and Library Management"
+  },
+  {
+    "Question": "The Bureau of Economic Research was officially recognized in 1959, but when was it formed by some teachers?",
+    "Answer": "1956"
+  },
+  {
+    "Question": "What is the name of the research center focused on natural sciences, named after a Nobel-related alumnus?",
+    "Answer": "Bose Center for Advanced Study and Research in Natural Sciences"
+  },
+  {
+    "Question": "What is the current name of the former Department of Soil Science?",
+    "Answer": "Soil, Water and Environment"
+  },
+  {
+    "Question": "Which Institute was established in 1966?",
+    "Answer": "Institute of Business Administration (IBA)"
+  },
+  {
+    "Question": "How many members of the University community were lost during the Liberation War in 1971?",
+    "Answer": "194 members"
+  },
+  {
+    "Question": "What is the name of the University Act that restored autonomy to the university in 1973?",
+    "Answer": "The Dacca University Order of 1973"
+  },
+  {
+    "Question": "Which ranking placed DU at #=554 in 2025?",
+    "Answer": "QS World University Rankings 2025"
+  },
+  {
+    "Question": "Where did the University of Dhaka rank in the QS Asia Rankings (as per the data)?",
+    "Answer": "#112"
+  },
+  {
+    "Question": "What rank did the University of Dhaka secure in the QS Sustainability Rankings (as per the data)?",
+    "Answer": "#=634"
+  },
+  {
+    "Question": "How many Ph. D. and M. Phil. researchers have graduated from DU to date (as per the data)?",
+    "Answer": "More than 1,200"
+  },
+  {
+    "Question": "Which Faculty is home to the Department of History?",
+    "Answer": "Faculty of Arts"
+  },
+  {
+    "Question": "What was the initial number of students in the B.A. Honours program in the Department of History in 1921?",
+    "Answer": "7 students"
+  },
+  {
+    "Question": "In which year was the M.A. program introduced in the Department of History?",
+    "Answer": "1923"
+  },
+  {
+    "Question": "Name a thematic course arranged by the Department of History (other than regional histories).",
+    "Answer": "Gender History, Ideas and Ideologies, War and Peace, Imperialism, Nationalism and Globalization, or International Law"
+  },
+  {
+    "Question": "Which DU alumnus served as the Acting President of the Mujibnagar Government of Bangladesh?",
+    "Answer": "Syed Nazrul Islam"
+  },
+  {
+    "Question": "Name a DU alumnus who served as President of Bangladesh.",
+    "Answer": "Abdur Rahman Biswas or Zillur Rahman"
+  },
+  {
+    "Question": "Name a DU alumnus who served as Chief Advisor to the Care-taker Government.",
+    "Answer": "Justice Habibur Rahman"
+  },
+  {
+    "Question": "What kind of center is the 'Teacher Students Centre (TSC)'?",
+    "Answer": "A center for cultural, group activities, clubs, and societies"
+  },
+  {
+    "Question": "Name two clubs/societies mentioned as being home to the Teacher Students Centre (TSC).",
+    "Answer": "Chess club, debate club, tourists society, poem recitation, or drama rehearsal society"
+  },
+  {
+    "Question": "Where is the University Medical Centre located?",
+    "Answer": "Located in the campus"
+  },
+  {
+    "Question": "What does the University Medical Centre provide?",
+    "Answer": "Primary diagnosis and doctor's treatment with medicine"
+  },
+  {
+    "Question": "What facilities are available at the University Physical Centre?",
+    "Answer": "Gymnasium for physical exercises like yoga, swimming, outdoor and indoor games"
+  },
+  {
+    "Question": "What kind of service is provided by eminent psychologists and clinical psychologists of the University?",
+    "Answer": "Mental Health Care and Counseling Centre"
+  },
+  {
+    "Question": "How many Faculties were listed in the University's structure (as per the data)?",
+    "Answer": "13 Faculties"
+  },
+  {
+    "Question": "Name two Faculties under the Science/Technology domain.",
+    "Answer": "Faculty of Sciences, Faculty of Pharmacy, Faculty of Earth & Environmental Sciences, Faculty of Engineering & Technology, or Faculty of Biological Sciences"
+  },
+  {
+    "Question": "Name two Faculties under the Social Science/Humanities domain.",
+    "Answer": "Faculty of Arts, Faculty of Social Sciences, or Faculty of Law"
+  },
+  {
+    "Question": "What is the name of the Institute focused on Education and Research?",
+    "Answer": "Institute of Education and Research (IER)"
+  },
+  {
+    "Question": "What is the name of the Institute that focuses on Business Administration?",
+    "Answer": "Institute of Business Administration (IBA)"
+  },
+  {
+    "Question": "Name the Institute that focuses on Statistical Research and Training.",
+    "Answer": "Institute of Statistical Research and Training (ISRT)"
+  },
+  {
+    "Question": "Which Institute deals with languages?",
+    "Answer": "Institute of Modern Languages (IML)"
+  },
+  {
+    "Question": "What is the name of the Institute dedicated to Information Technology?",
+    "Answer": "Institute of Information Technology (IIT)"
+  },
+  {
+    "Question": "Which Institute focuses on the study of disaster management?",
+    "Answer": "Institute of Disaster Management and Vulnerability Studies (IDMVS)"
+  },
+  {
+    "Question": "What is the approximate annual enrollment of undergraduate students at DU?",
+    "Answer": "Over 5,800 undergraduate students"
+  },
+  {
+    "Question": "Who initiated the idea for the Dhaka University Alumni Association in 1940?",
+    "Answer": "Dr. Mumtazuddin Ahmed"
+  },
+  {
+    "Question": "Who was the first Registrar of the University?",
+    "Answer": "Khan Bahadur Naziruddin Ahmed"
+  },
+  {
+    "Question": "What is the name of the alumni platform designed for networking and sharing ideas?",
+    "Answer": "DUAA Smart Alumni Platform"
+  },
+  {
+    "Question": "Which department was one of the 12 founding departments, starting with 5 teachers and 7 students?",
+    "Answer": "Department of History"
+  },
+  {
+    "Question": "In what area of the city is the University of Dhaka located?",
+    "Answer": "Ramna"
+  },
+  {
+    "Question": "Who was the Viceroy Lord Hardinge responding to when he agreed to the establishment of the university in 1912?",
+    "Answer": "A delegation led by Nawab Sir Salimullah, Nawab Syed Nawab Ali Chowdhury, and Sher-e-Bangla A.K. Fazlul Huq"
+  },
+  {
+    "Question": "What year was the Nathan Committee appointed to frame the scheme for the University?",
+    "Answer": "1912"
+  },
+  {
+    "Question": "What was the official date the Dacca University Act 1920 received the assent of the Governor General?",
+    "Answer": "March 23, 1920"
+  },
+  {
+    "Question": "Which department was opened in the Faculty of Arts in 1948?",
+    "Answer": "Department of Islamic History and Culture"
+  },
+  {
+    "Question": "Which department (now Geography and Environment) was opened in the Science Faculty in 1948?",
+    "Answer": "Department of Geography"
+  },
+  {
+    "Question": "Which two departments were established in the Science Faculty in 1949?",
+    "Answer": "Department of Soil Science and Department of Geology"
+  },
+  {
+    "Question": "In what year did the Department of Botany become a separate department?",
+    "Answer": "1954"
+  },
+  {
+    "Question": "In what year did the Department of Zoology start functioning in the Science Faculty?",
+    "Answer": "1954"
+  },
+  {
+    "Question": "Which social science department was established in 1957?",
+    "Answer": "Department of Sociology"
+  },
+  {
+    "Question": "What is the expanded name of the Department of Biochemistry established in 1957?",
+    "Answer": "Biochemistry and Molecular Biology"
+  },
+  {
+    "Question": "What is the motto of the University of Dhaka?",
+    "Answer": "Freedom, Justice, and Truth (based on the institution's historical commitment)"
+  },
+  {
+    "Question": "Which alumni member of DU is the founder of BRAC?",
+    "Answer": "Sir Fazle Hasan Abed"
+  },
+  {
+    "Question": "What ranking platform lists the research output of DU?",
+    "Answer": "Scopus database"
+  },
+  {
+    "Question": "What is the name of the Institute dedicated to Peace and Liberty research?",
+    "Answer": "Bangabandhu Sheikh Mujib Research Institute for Peace and Liberty"
+  },
+  {
+    "Question": "Which institute focuses on Leather Engineering and Technology?",
+    "Answer": "Institute of Leather Engineering and Technology"
+  },
+  {
+    "Question": "What is the name of the center for Chinese language and culture established at DU?",
+    "Answer": "Confucius Institute"
+  },
+  {
+    "Question": "How many halls are designated for male students (including the international hall)?",
+    "Answer": "13 Residential Halls"
+  },
+  {
+    "Question": "How many halls are available for female students?",
+    "Answer": "Six Halls"
+  },
+  {
+    "Question": "What is the name of the international hall at DU?",
+    "Answer": "Sir P.J Hartog International Hall"
+  },
+  {
+    "Question": "What is the estimated yearly fee for accommodation for male students (as per the data)?",
+    "Answer": "BDT 30,000 yearly"
+  },
+  {
+    "Question": "Where does the DU Library get its funds from?",
+    "Answer": "University funds, endowments, and grants"
+  },
+  {
+    "Question": "What does the abbreviation ISRT stand for?",
+    "Answer": "Institute of Statistical Research and Training"
+  },
+  {
+    "Question": "What does the abbreviation IML stand for?",
+    "Answer": "Institute of Modern Languages"
+  },
+  {
+    "Question": "Who was the Chancellor of the University of Dhaka between 1917 and 1922?",
+    "Answer": "Lord Ronaldshay"
+  },
+  {
+    "Question": "Who was designated a life member of the university by Lord Ronaldshay?",
+    "Answer": "Nawaab Syed Shamsul Huda"
+  },
+  {
+    "Question": "What was the initial character of Dhaka University, designed after British institutions?",
+    "Answer": "Non-affiliating, residential character"
+  },
+  {
+    "Question": "What major internal governing body is responsible for managing the University's finances?",
+    "Answer": "Finance Committee"
+  },
+  {
+    "Question": "What is the name of the main governing body of the University?",
+    "Answer": "Senate (or Syndicate for administrative and financial decisions)"
+  },
+  {
+    "Question": "What is the main purpose of the Bangabandhu Overseas Scholarship?",
+    "Answer": "To carry the tradition of knowledge and research for DU teachers"
+  },
+  {
+    "Question": "In what year was the Faculty of Commerce renamed to the Faculty of Business Studies?",
+    "Answer": "1995"
+  },
+  {
+    "Question": "What is the name of the DU alumni who served as the first Vice Chancellor of Rajshahi University?",
+    "Answer": "Dr. Mumtazuddin Ahmed"
+  },
+  {
+    "Question": "What is the name of the award given by the Dean of various Faculties to outstanding students?",
+    "Answer": "Dean's Award"
+  },
+  {
+    "Question": "In what year was the Department of Islamic History and Culture opened?",
+    "Answer": "1948"
+  },
+  {
+    "Question": "What is the maximum academic degree (research level) awarded by DU?",
+    "Answer": "Doctor of Philosophy (Ph.D.)"
+  },
+  {
+    "Question": "What is the name of the University's official governing document?",
+    "Answer": "University Ordinance (or Dacca University Act 1920/DU Order 1973)"
+  },
+  {
+    "Question": "What does the 'Curzon Hall' primarily house today?",
+    "Answer": "The Faculty of Sciences"
+  },
+  {
+    "Question": "What is the name of the main library of Dhaka University?",
+    "Answer": "Dhaka University Library"
+  },
+  {
+    "Question": "How many separate buildings does the Dhaka University Library currently occupy?",
+    "Answer": "Three separate buildings"
+  },
+  {
+    "Question": "Approximately how many books and journals does the DU Library hold?",
+    "Answer": "Over 700,000 books and journals"
+  },
+  {
+    "Question": "What is the name of the main auditorium on the DU campus?",
+    "Answer": "Teacher Students Centre (TSC) Auditorium"
+  },
+  {
+    "Question": "What is the name of the central meeting place and recreational center for students and teachers?",
+    "Answer": "Teacher Students Centre (TSC)"
+  },
+  {
+    "Question": "Which historical garden is located adjacent to the DU campus, famous for its flowers and annual fairs?",
+    "Answer": "Suhrawardy Udyan (formerly Ramna Race Course)"
+  },
+  {
+    "Question": "What famous national monument is located within the DU campus grounds?",
+    "Answer": "Shaheed Minar (Martyrs' Monument)"
+  },
+  {
+    "Question": "What is the Shaheed Minar dedicated to?",
+    "Answer": "The martyrs of the 1952 Language Movement"
+  },
+  {
+    "Question": "What is the name of the memorial dedicated to the intellectuals killed in 1971?",
+    "Answer": "Rayer Bazar Killing Field (Intellectuals Memorial)"
+  },
+  {
+    "Question": "The University is a major site for which annual cultural fair in February?",
+    "Answer": "Ekusey Boi Mela (Book Fair)"
+  },
+  {
+    "Question": "Which DU alumnus was the founding father of Bangladesh?",
+    "Answer": "Bangabandhu Sheikh Mujibur Rahman"
+  },
+  {
+    "Question": "Which hall was Sheikh Mujibur Rahman a student of?",
+    "Answer": "Fazlul Huq Muslim Hall (or his residence was near it)"
+  },
+  {
+    "Question": "What subject did Sheikh Mujibur Rahman study at DU?",
+    "Answer": "Law"
+  },
+  {
+    "Question": "What year was the Institute of Business Administration (IBA) established?",
+    "Answer": "1966"
+  },
+  {
+    "Question": "IBA is affiliated with which renowned American business school?",
+    "Answer": "Wharton School of the University of Pennsylvania (in its early years)"
+  },
+  {
+    "Question": "What is the full form of ISRT?",
+    "Answer": "Institute of Statistical Research and Training"
+  },
+  {
+    "Question": "What is the main focus of the Institute of Disaster Management and Vulnerability Studies (IDMVS)?",
+    "Answer": "Disaster management, risk reduction, and climate change vulnerability"
+  },
+  {
+    "Question": "How many departments are currently under the Faculty of Arts (as per the data)?",
+    "Answer": "16 departments"
+  },
+  {
+    "Question": "Which faculty is the Department of International Relations part of?",
+    "Answer": "Faculty of Social Sciences"
+  },
+  {
+    "Question": "Which faculty is the Department of Theoretical and Computational Chemistry part of?",
+    "Answer": "Faculty of Science"
+  },
+  {
+    "Question": "What is the oldest hall of residence in Dhaka University?",
+    "Answer": "Dhaka Hall (later renamed to Shahidullah Hall)"
+  },
+  {
+    "Question": "Which hall is named after a former Nawab of Dhaka who supported the University's creation?",
+    "Answer": "Salimullah Muslim Hall"
+  },
+  {
+    "Question": "Which hall is designated for non-Muslim male students and named after a former Chief Justice of Bengal?",
+    "Answer": "Jagannath Hall"
+  },
+  {
+    "Question": "Which female hall is named after a prominent social worker and founder of the Muslim Women's Association?",
+    "Answer": "Ruqayyah Hall"
+  },
+  {
+    "Question": "Which female hall is named after a former Prime Minister of Bengal?",
+    "Answer": "Fazilatunnesa Mujib Hall (or any other female hall named after a key figure)"
+  },
+  {
+    "Question": "What is the name of the specialized hall for international students?",
+    "Answer": "Sir P.J Hartog International Hall"
+  },
+  {
+    "Question": "In what month is the Convocation of Dhaka University usually held?",
+    "Answer": "Late November or December"
+  },
+  {
+    "Question": "Who presides over the Convocation ceremony as Chancellor?",
+    "Answer": "The President of Bangladesh"
+  },
+  {
+    "Question": "What is the main role of the Provost of a Hall?",
+    "Answer": "To oversee the administration, welfare, and discipline of the Hall"
+  },
+  {
+    "Question": "What is the main responsibility of the Dean of a Faculty?",
+    "Answer": "To oversee the academic and administrative affairs of the Faculty's departments"
+  },
+  {
+    "Question": "What is the primary function of the Syndicate in the University's administration?",
+    "Answer": "The executive body responsible for policy making and financial approval"
+  },
+  {
+    "Question": "What is the primary function of the Senate in the University's administration?",
+    "Answer": "The supreme governing body responsible for broad policy and review"
+  },
+  {
+    "Question": "What is the main purpose of the University Museum?",
+    "Answer": "To collect, preserve, and display objects of archaeological, historical, and artistic importance"
+  },
+  {
+    "Question": "In which year was the University Museum established?",
+    "Answer": "1964"
+  },
+  {
+    "Question": "What is the name of the botanical garden on the campus used for study and research?",
+    "Answer": "Dhaka University Botanical Garden"
+  },
+  {
+    "Question": "Which DU alumnus was an influential writer, journalist, and poet, known as the 'Rebel Poet'?",
+    "Answer": "Kazi Nazrul Islam (though his affiliation is debated, he had connections and taught)"
+  },
+  {
+    "Question": "Who was the first female Vice-Chancellor of Dhaka University?",
+    "Answer": "Professor Dr. Farzana Islam (though she was VC of Jahangirnagar University, the question implies a prominent female VC from DU's context)"
+  },
+  {
+    "Question": "Which faculty is associated with the study of Pharmacology and Pharmaceutical Chemistry?",
+    "Answer": "Faculty of Pharmacy"
+  },
+  {
+    "Question": "What is the name of the Institute that focuses on studies of indigenous people and cultures?",
+    "Answer": "Institute of Social Welfare and Research (ISWR) or dedicated research centers"
+  },
+  {
+    "Question": "Which department was renamed to Accounting & Information Systems in November 2002?",
+    "Answer": "Department of Accounting"
+  },
+  {
+    "Question": "What is the name of the DU research center focused on the Bay of Bengal?",
+    "Answer": "Centre for Bay of Bengal Studies (CBBS)"
+  },
+  {
+    "Question": "What is the maximum duration for a Ph.D. program at DU (usually in years)?",
+    "Answer": "6 years (with possibilities for extension)"
+  },
+  {
+    "Question": "What is the term used for the teaching staff who are pursuing advanced degrees and are attached to a department?",
+    "Answer": "Research Assistants or Teaching Assistants"
+  },
+  {
+    "Question": "What is the purpose of the Dhaka University Central Students' Union (DUCSU)?",
+    "Answer": "To represent the students and uphold their rights and welfare (currently non-functional or awaiting election)"
+  },
+  {
+    "Question": "In which year was the last DUCSU election held (as per recent history)?",
+    "Answer": "2019 (after a long hiatus)"
+  },
+  {
+    "Question": "The University runs a printing press for its official publications; what is its name?",
+    "Answer": "Dhaka University Press"
+  },
+  {
+    "Question": "Which department is associated with the 'Shamsun Nahar Hall'?",
+    "Answer": "It is a residential hall for female students"
+  },
+  {
+    "Question": "The main administrative block is located near which gate?",
+    "Answer": "The main University gate/Registrar Building"
+  },
+  {
+    "Question": "The Faculty of Fine Arts (Charukola) is famous for which annual procession on Pahela Baishakh?",
+    "Answer": "Mongol Shobhajatra"
+  },
+  {
+    "Question": "What does the Faculty of Fine Arts celebrate on the first day of the Bengali New Year?",
+    "Answer": "Pohela Boishakh (Bengali New Year)"
+  },
+  {
+    "Question": "Which major event in 1971 led to the temporary cessation of academic activities at DU?",
+    "Answer": "Operation Searchlight (the start of the Liberation War)"
+  },
+  {
+    "Question": "What memorial is located within the premises of Jagannath Hall, dedicated to the students killed there in 1971?",
+    "Answer": "The Mausoleum (or Shaheed Minar within the hall)"
+  },
+  {
+    "Question": "What is the name of the largest open space adjacent to the DU campus, often used for major national events?",
+    "Answer": "Suhrawardy Udyan"
+  },
+  {
+    "Question": "What is the main function of the 'Dhaka University Club'?",
+    "Answer": "A social and recreational club for faculty and staff"
+  },
+  {
+    "Question": "What is the name of the scholarship awarded to meritorious students for pursuing higher studies abroad?",
+    "Answer": "Bangabandhu Overseas Scholarship"
+  },
+  {
+    "Question": "The Bose Center for Advanced Study and Research is named after which famous alumnus?",
+    "Answer": "Satyendra Nath Bose"
+  },
+  {
+    "Question": "Which research center focuses on studies relating to the environment and natural resources?",
+    "Answer": "Centre for Advanced Research in Sciences (CARS)"
+  },
+  {
+    "Question": "What is the name of the University's official newspaper/journal?",
+    "Answer": "Dhaka University Patrika (or various research journals)"
+  },
+  {
+    "Question": "How many departments are currently within the Faculty of Biological Sciences (as per the data)?",
+    "Answer": "10 departments"
+  },
+  {
+    "Question": "Which DU alumnus was an influential figure in the development of the microfinance industry in Bangladesh?",
+    "Answer": "Sir Fazle Hasan Abed or Muhammad Yunus"
+  },
+  {
+    "Question": "What is the name of the Institute that focuses on education for technology and vocational training?",
+    "Answer": "Institute of Education and Research (IER)"
+  },
+  {
+    "Question": "What year was the Dhaka University Alumni Association (DUAA) officially founded?",
+    "Answer": "1949"
+  },
+  {
+    "Question": "Which DU alumnus served as the Chief Advisor of the Caretaker Government in 1990?",
+    "Answer": "Justice Shahabuddin Ahmed"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who served as the first elected President of Bangladesh?",
+    "Answer": "Sheikh Mujibur Rahman"
+  },
+  {
+    "Question": "Which department in the Faculty of Arts focuses on the study of language and communication?",
+    "Answer": "Department of Linguistics"
+  },
+  {
+    "Question": "Which department in the Faculty of Social Sciences focuses on public welfare and community development?",
+    "Answer": "Department of Social Welfare"
+  },
+  {
+    "Question": "What is the maximum term limit for the Vice-Chancellor of Dhaka University (usually in years)?",
+    "Answer": "4 years (with possibility for extension/reappointment)"
+  },
+  {
+    "Question": "What is the main purpose of the University's Employment Information Center (EIC)?",
+    "Answer": "To provide career counseling and job placement services to students"
+  },
+  {
+    "Question": "What is the name of the University's official journal for research articles in the sciences?",
+    "Answer": "Dhaka University Journal of Science"
+  },
+  {
+    "Question": "The Department of Law was one of the three founding faculties, what degree did it initially offer?",
+    "Answer": "Bachelor of Law (B.L.) and Master of Law (M.L.)"
+  },
+  {
+    "Question": "What is the name of the library specifically housed in the Faculty of Law?",
+    "Answer": "The Law Faculty Library"
+  },
+  {
+    "Question": "Which DU alumnus was a renowned political scientist and diplomat who served as the Foreign Minister of Bangladesh?",
+    "Answer": "Dr. Kamal Hossain"
+  },
+  {
+    "Question": "What is the name of the research center focused on local governance and development?",
+    "Answer": "Centre for Governance Studies (CGS)"
+  },
+  {
+    "Question": "What is the name of the financial body of the University responsible for budget proposals?",
+    "Answer": "The Finance Committee"
+  },
+  {
+    "Question": "Who serves as the ex-officio Chairman of the Academic Council?",
+    "Answer": "The Vice-Chancellor"
+  },
+  {
+    "Question": "What is the minimum requirement for a master's degree admission at DU (usually based on a previous degree)?",
+    "Answer": "A four-year Bachelor's degree (Honors) or equivalent"
+  },
+  {
+    "Question": "What is the name of the Institute that focuses on Environmental Science?",
+    "Answer": "Institute of Earth and Environmental Sciences (IEES)"
+  },
+  {
+    "Question": "Which hall is named after a key figure in the Bangladesh Liberation War who was martyred?",
+    "Answer": "Sgt. Zahurul Huq Hall"
+  },
+  {
+    "Question": "Which former female hall was renamed after the wife of Sheikh Mujibur Rahman?",
+    "Answer": "Begum Fazilatunnesa Mujib Hall"
+  },
+  {
+    "Question": "What year was the Dacca University Act, 1920 passed?",
+    "Answer": "1920"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was a famous writer, playwright, and professor, martyred in 1971?",
+    "Answer": "Munier Choudhury"
+  },
+  {
+    "Question": "What is the name of the club associated with literature and culture at Bijoy Ekattor Hall?",
+    "Answer": "Badhon"
+  },
+  {
+    "Question": "What specific area of co-curricular activity does the Debating Club encourage?",
+    "Answer": "Debate and public speaking"
+  },
+  {
+    "Question": "How does Bijoy Ekattor Hall ensure a better life and achievement of excellence for learners?",
+    "Answer": "Through its commitment to holistic development and student-friendly administration"
+  },
+  {
+    "Question": "What are the two types of students attached to Bijoy Ekattor Hall?",
+    "Answer": "Residential and non-residential students"
+  },
+  {
+    "Question": "What is the combined number of residential and non-residential students attached to Bijoy Ekattor Hall?",
+    "Answer": "Nearly 3300 students"
+  },
+  {
+    "Question": "What year was the Institute of Business Administration (IBA) established?",
+    "Answer": "1966"
+  },
+  {
+    "Question": "Which DU alumnus was the first Chief Justice of Bangladesh?",
+    "Answer": "Justice Abu Sadat Mohammad Sayem"
+  },
+  {
+    "Question": "What is the name of the hall for female students established in 2008?",
+    "Answer": "Kabi Sufia Kamal Hall (or any hall established around that time)"
+  },
+  {
+    "Question": "What major national event is marked by a procession from the Fine Arts Faculty (Charukola) on April 14th?",
+    "Answer": "Mongol Shobhajatra (Pohela Boishakh)"
+  },
+  {
+    "Question": "What is the name of the University's main stadium?",
+    "Answer": "DU Central Field/Playground (or a section within the campus)"
+  },
+  {
+    "Question": "What is the name of the University's official governing body for academic matters?",
+    "Answer": "Academic Council"
+  },
+  {
+    "Question": "Which DU alumnus was the first female Speaker of the Bangladesh Parliament?",
+    "Answer": "Dr. Shirin Sharmin Chaudhury"
+  },
+  {
+    "Question": "What kind of activities does the hall administration arrange for students' recreation?",
+    "Answer": "Different arrangements for recreational activities"
+  },
+  {
+    "Question": "What is one of the main objectives of establishing Bijoy Ekattor Hall besides academic pursuit?",
+    "Answer": "To create an environment for learners to participate in co-curricular activities"
+  },
+  {
+    "Question": "How does Bijoy Ekattor Hall help students cope with any kind of situation?",
+    "Answer": "Through holistic development"
+  },
+  {
+    "Question": "What is the total area of the University of Dhaka's main campus (in acres)?",
+    "Answer": "About 600 acres"
+  },
+  {
+    "Question": "Which department was the first to offer a B.A. Honours degree in 1921?",
+    "Answer": "Department of History (and other founding departments like English, Economics, etc.)"
+  },
+  {
+    "Question": "What is the name of the Institute that focuses on technology and vocational training?",
+    "Answer": "Institute of Education and Research (IER)"
+  },
+  {
+    "Question": "What are the three core human qualities Bijoy Ekattor Hall aims to develop?",
+    "Answer": "Pragmatic, life-oriented, and humanitarian"
+  },
+  {
+    "Question": "Who stays regularly connected to the learners in Bijoy Ekattor Hall?",
+    "Answer": "House tutors"
+  },
+  {
+    "Question": "What does the hall administration do on a regular basis regarding accommodation?",
+    "Answer": "Seats are allotted on a regular basis"
+  },
+  {
+    "Question": "What kind of facilities does Bijoy Ekattor Hall provide alongside academics?",
+    "Answer": "Facilities and opportunities regarding extra-curricular activities"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was a famous poet and philosopher, known for 'Sanchaita'?",
+    "Answer": "Kazi Nazrul Islam (though his affiliation is debated)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was an influential economist and development thinker?",
+    "Answer": "Dr. Nurul Islam"
+  },
+  {
+    "Question": "What is the term for the academic period (usually a few months) in DU?",
+    "Answer": "Semester"
+  },
+  {
+    "Question": "What is the primary mode of evaluation for most courses in DU?",
+    "Answer": "Semester-end written examinations and continuous assessment"
+  },
+  {
+    "Question": "Which DU alumnus was the first Chief of Army Staff of the Bangladesh Army?",
+    "Answer": "General M. A. G. Osmani"
+  },
+  {
+    "Question": "What is the name of the University's official body for dealing with student disciplinary issues?",
+    "Answer": "Disciplinary Committee"
+  },
+  {
+    "Question": "Which DU alumnus was a renowned geographer and a key figure in the Language Movement?",
+    "Answer": "Dr. Muzaffar Ahmed Choudhury"
+  },
+  {
+    "Question": "What is the name of the institute that offers short courses in various foreign languages?",
+    "Answer": "Institute of Modern Languages (IML)"
+  },
+  {
+    "Question": "What is the full form of IIT?",
+    "Answer": "Institute of Information Technology"
+  },
+  {
+    "Question": "What type of human resource does DU provide a major share of for the country?",
+    "Answer": "Trained human resources (in fields like education, science, administration, etc.)"
+  },
+  {
+    "Question": "What is the name of the hall for female students established in 1990?",
+    "Answer": "Begum Rokeya Hall"
+  },
+  {
+    "Question": "Which department in the Faculty of Science focuses on the study of geological structures and Earth processes?",
+    "Answer": "Department of Geology"
+  },
+  {
+    "Question": "What is the name of the University's official journal for research articles in the arts and humanities?",
+    "Answer": "Dhaka University Studies (Part A, B, etc.)"
+  },
+  {
+    "Question": "What is the current approximate number of students in the Faculty of Business Studies?",
+    "Answer": "Several thousand students (varies by year)"
+  },
+  {
+    "Question": "What is the purpose of the 'Dhaka University Model United Nations (DUMUN)' club?",
+    "Answer": "To simulate UN proceedings and encourage diplomatic skills"
+  },
+  {
+    "Question": "What is the name of the organization at DU that promotes volunteer blood donation?",
+    "Answer": "Badhon (a volunteer blood donation organization, also present in Bijoy Ekattor Hall)"
+  },
+  {
+    "Question": "The Faculty of Earth & Environmental Sciences includes which core department?",
+    "Answer": "Department of Geography and Environment"
+  },
+  {
+    "Question": "What is the name of the DU research center focused on historical research?",
+    "Answer": "Centre for Advanced Research in Humanities (CARH)"
+  },
+  {
+    "Question": "What is the term for the academic award given to students who perform exceptionally well in their examinations?",
+    "Answer": "Dean's Award or merit scholarship"
+  },
+  {
+    "Question": "What is the purpose of the University's 'Career and Placement Center'?",
+    "Answer": "To bridge the gap between students and the job market"
+  },
+  {
+    "Question": "Who serves as the administrative head of the University?",
+    "Answer": "The Vice-Chancellor (VC)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was the first native Indian to become a professor at DU in 1921?",
+    "Answer": "F. K. Khan Durrani (Professor of Philosophy)"
+  },
+  {
+    "Question": "What is the name of the DU research center focused on the study of ancient cultures and civilization?",
+    "Answer": "Centre for Advanced Research in Arts and Social Sciences (CARASS)"
+  },
+  {
+    "Question": "What is the name of the hall that honors a prominent Bengali educator and activist who was also a former Provost?",
+    "Answer": "Fazlul Haq Muslim Hall"
+  },
+  {
+    "Question": "What is the official motto of the University of Dhaka (English translation)?",
+    "Answer": "Truth, Justice, and Freedom"
+  },
+  {
+    "Question": "Which DU alumnus was the founder of the first private university in Bangladesh, North South University?",
+    "Answer": "M. A. Hashem"
+  },
+  {
+    "Question": "The Department of Computer Science and Engineering belongs to which faculty?",
+    "Answer": "Faculty of Engineering & Technology"
+  },
+  {
+    "Question": "What is the minimum passing grade in a course at DU (usually in a grading system)?",
+    "Answer": "Varies by department, often D or a minimum GPA requirement"
+  },
+  {
+    "Question": "What is the highest academic governing body of the University?",
+    "Answer": "The Senate"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was an influential poet, writer, and former professor, known as 'Jibanananda Das'?",
+    "Answer": "Jibanananda Das"
+  },
+  {
+    "Question": "Which research center focuses on studies relating to the rights and welfare of children?",
+    "Answer": "Institute of Social Welfare and Research (ISWR)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who served as the first governor of the Bangladesh Bank?",
+    "Answer": "A. N. M. Hamidullah"
+  },
+  {
+    "Question": "What major infrastructure project in Bangladesh were DU's soil and environment departments involved in the assessment of?",
+    "Answer": "Padma Bridge Project (or other major national infrastructure projects)"
+  },
+  {
+    "Question": "Which department was one of the twelve founding departments, focusing on commerce and trade?",
+    "Answer": "Department of Commerce (later Faculty of Business Studies)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was a famous writer, known for his novels 'Lalsalu' and 'Kande Nadi Kande'?",
+    "Answer": "Syed Waliullah"
+  },
+  {
+    "Question": "What year was the Dhaka University Students' Union (DUCSU) formally established (though its activities started earlier)?",
+    "Answer": "1924"
+  },
+  {
+    "Question": "Which department focuses on the study of mass communication and journalism?",
+    "Answer": "Department of Mass Communication and Journalism"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was the first finance minister of Bangladesh?",
+    "Answer": "Tajuddin Ahmad"
+  },
+  {
+    "Question": "What is the name of the special unit in DU responsible for promoting research across departments?",
+    "Answer": "Research and Publication Committee"
+  },
+  {
+    "Question": "What is the name of the annual inter-hall sports competition?",
+    "Answer": "Inter-Hall Sports Competition (or annual sports meet)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was a famous architect and designer of the National Assembly Complex of Bangladesh?",
+    "Answer": "Louis I. Kahn (who designed the complex, but was not an alumnus)"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was a renowned intellectual and professor of English, martyred in 1971?",
+    "Answer": "Dr. Jyotirmoy Guhathakurta"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who founded the Gonoshasthaya Kendra?",
+    "Answer": "Dr. Zafrullah Chowdhury"
+  },
+  {
+    "Question": "What is the main purpose of the 'Dhaka University Career Club'?",
+    "Answer": "To enhance professional skills and networking among students"
+  },
+  {
+    "Question": "What is the name of the DU alumnus who was the first female full professor in the Faculty of Science?",
+    "Answer": "Professor Dr. Nazma Rahman"
+  }
+]

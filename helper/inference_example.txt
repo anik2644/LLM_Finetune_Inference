@@ -1,0 +1,6 @@
+[
+  {"Question": "What was the initial number of residential halls (dormitories) when the University started?"},
+  {"Question": "Name one of the first three residential halls established in 1921."},
+  {"Question": "Who was the Chancellor of the University of Dhaka at the time of its first Convocation in 1923?"},
+  {"Question": "When Du get established?"}
+]
