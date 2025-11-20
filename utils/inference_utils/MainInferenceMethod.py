@@ -5,7 +5,7 @@ import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 from dotenv import load_dotenv
 from utils.DeviceChoice import get_device
-from utils.inference_utils.HelperMethodsInference import get_my_model
+from utils.inference_utils.HelperMethodsInference import get_my_HF_HUB_model, get_my_local_model
 
 
 
@@ -15,16 +15,26 @@ load_dotenv()
 
 
 
-def run_inference(question):
+def run_inference_hf_hub_my_model(question):
     """Run inference with the fine-tuned model."""
 
-    model, tokenizer = get_my_model()
+    model, tokenizer = get_my_HF_HUB_model()
     tokenizedInputs = tokenize_input(question, tokenizer)
     model_output = generate_output_from_model(tokenizedInputs, model, tokenizer)
     decoded_output = detokenize_output(tokenizer, model_output[0])
 
     return decoded_output
 
+
+def run_inference_from_local(question):
+    """Run inference with the fine-tuned model."""
+
+    model, tokenizer = get_my_local_model()
+    tokenizedInputs = tokenize_input(question, tokenizer)
+    model_output = generate_output_from_model(tokenizedInputs, model, tokenizer)
+    decoded_output = detokenize_output(tokenizer, model_output[0])
+
+    return decoded_output
 
 
 

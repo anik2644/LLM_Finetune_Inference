@@ -1,6 +1,6 @@
 from utils.inference_utils.SampleData import get_test_dataframe
 from datasets import Dataset
-from utils.inference_utils.MainInferenceMethod import run_inference
+from utils.inference_utils.MainInferenceMethod import run_inference_hf_hub_my_model ,run_inference_from_local
 from utils.DeviceChoice import get_device
 
 
@@ -26,7 +26,8 @@ for i, example in enumerate(test_dataset):
 
 
     # 2. Generate the prediction
-    predicted_answer = run_inference(example)
+    # predicted_answer = run_inference_hf_hub_my_model(example)
+    predicted_answer = run_inference_from_local(example)
 
     # 3. Store the result
     predictions.append({

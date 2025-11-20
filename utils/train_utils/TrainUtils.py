@@ -20,7 +20,7 @@ def get_train_args(total_epochs,batch_size,save_steps_every_5_epochs):
         save_total_limit=3,  # Keep checkpoints for every 5 epochs (30/5=6)
 
         # Hugging Face Hub configuration
-        push_to_hub=True,
+        push_to_hub=False,
         hub_model_id="mhdank/testing_checkpoint",  # Using your repo
         hub_strategy="checkpoint",
 
@@ -55,6 +55,10 @@ class CheckpointMonitorCallback(TrainerCallback):
             # Convert to MB
             size_mb = total_size / (1024 * 1024)
 
+            # Save the model directly to the base folder
+
+
+
             # Calculate current epoch
             current_epoch = state.epoch
             print(f"✅ Checkpoint saved at epoch {current_epoch:.1f}")
@@ -62,6 +66,8 @@ class CheckpointMonitorCallback(TrainerCallback):
             print(f"💾 Checkpoint size: {size_mb:.2f} MB")
             print(f"🔢 Global step: {state.global_step}")
             print("---")
+
+
 def analyze_checkpoint(checkpoint_path):
     """Analyze what's stored in a checkpoint"""
     print(f"\n🔍 Analyzing checkpoint: {checkpoint_path}")

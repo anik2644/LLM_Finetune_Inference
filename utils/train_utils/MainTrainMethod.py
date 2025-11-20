@@ -81,7 +81,7 @@ def start_training(train_dataset, tokenized_train):
 
     # After training completion
     print("🎉 Training completed! Saving final model...")
-    trainer.save_model("./testing_checkpoint")
+    model.save_pretrained("./testing_checkpoint")
     tokenizer.save_pretrained("./testing_checkpoint")
 
     # Push final model to Hub
