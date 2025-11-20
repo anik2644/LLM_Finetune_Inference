@@ -80,7 +80,6 @@
     "Answer": "To ensure a better life and achievement of excellence for the learners."
   },
 
-
   {
     "Question": "What is one of the important responsibilities of the hall administration?",
     "Answer": "To ensure every kind of facilities and opportunities to the learners."
@@ -466,16 +465,16 @@
     "Answer": "The Dacca University Order of 1973"
   },
   {
-    "Question": "Which ranking placed DU at #=554 in 2025?",
+    "Question": "Which ranking placed DU at 554 in 2025?",
     "Answer": "QS World University Rankings 2025"
   },
   {
     "Question": "Where did the University of Dhaka rank in the QS Asia Rankings (as per the data)?",
-    "Answer": "#112"
+    "Answer": "112"
   },
   {
     "Question": "What rank did the University of Dhaka secure in the QS Sustainability Rankings (as per the data)?",
-    "Answer": "#=634"
+    "Answer": "634"
   },
   {
     "Question": "How many Ph. D. and M. Phil. researchers have graduated from DU to date (as per the data)?",

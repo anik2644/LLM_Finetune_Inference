@@ -1,6 +1,10 @@
 from transformers import Trainer, TrainingArguments
-from utils.train_utils import load_model_and_tokenizer, save_model
+from utils.train_utils.HelperMethodsTrain import load_model_and_tokenizer_base_model, save_model
 from datasets import Dataset
+import torch
+from utils.train_utils.LoadData import get_data
+from utils.train_utils.TokenizerUtils import format_data,tokenize_data
+from utils.train_utils.MainTrainMethod import start_training
 import os
 
 # Set training parameters
@@ -9,47 +13,44 @@ batch_size = 4
 total_epochs = 30
 
 # Load data (assumed from provided code)
-train_data, test_data, val_data = load_data()  # Implement load_data based on file
+train_data, test_data, val_data = get_data()
+
+print(f" train data size; {len(train_data)}")
+print(f" validation data size; {len(val_data)}")
+print(f" test data size; {len(test_data)}")
 
 train_dataset = Dataset.from_list(train_data)
 test_dataset = Dataset.from_list(test_data)
 val_dataset = Dataset.from_list(val_data)
 
-# Tokenize data
-def tokenize_data(batch):
-    input_enc = tokenizer(batch["input_text"], padding="max_length", truncation=True, max_length=256)
-    target_enc = tokenizer(batch["target_text"], padding="max_length", truncation=True, max_length=256)
-    input_enc["labels"] = target_enc["input_ids"]
-    return input_enc
 
-train_dataset = train_dataset.map(tokenize_data, batched=True)
-test_dataset = test_dataset.map(tokenize_data, batched=True)
-val_dataset = val_dataset.map(tokenize_data, batched=True)
+print("==============11111==================")
+print(train_dataset)
+print(val_dataset)
+
+
+train_dataset = train_dataset.map(format_data)
+test_dataset = test_dataset.map(format_data)
+val_dataset = val_dataset.map(format_data)
+
+
+print("================22222================")
+print(train_dataset)
 
 # Load model and tokenizer
-model, tokenizer = load_model_and_tokenizer()
+model, tokenizer= load_model_and_tokenizer_base_model()
 
-# Training arguments
-training_args = TrainingArguments(
-    output_dir="./output_model",
-    num_train_epochs=total_epochs,
-    per_device_train_batch_size=batch_size,
-    learning_rate=3e-4,
-    weight_decay=0.01,
-    save_steps=1000,
-    save_total_limit=3,
-)
 
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=train_dataset,
-    eval_dataset=val_dataset,
-    tokenizer=tokenizer
-)
+# Map the tokenizer function to the datasets
+tokenized_train_dataset = train_dataset.map(lambda x: tokenize_data(x, tokenizer=tokenizer), batched=True)
+tokenized_test_dataset = test_dataset.map(lambda x: tokenize_data(x, tokenizer=tokenizer), batched=True)
+tokenized_val_dataset = val_dataset.map(lambda x: tokenize_data(x, tokenizer=tokenizer), batched=True)
 
-# Train model
-trainer.train()
+
+print("================33333================")
+print(tokenized_train_dataset)
+
+start_training(train_dataset,tokenized_train_dataset)
 
 # Save the trained model
-save_model(model, tokenizer, "./final_model")
+# save_model(model, tknzr, "./final_model")
