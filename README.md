@@ -57,7 +57,7 @@ Contains training notebook + inference code:
 
 ### 🤗 Hugging Face Model Repository  
 *(Replace this link with your model link if different)*  
-👉 `https://huggingface.co/<your_hf_username>/<your_du_tsc_model>`
+👉 **https://huggingface.co/mhdank/testing_checkpoint_new**
 
 ---
 
