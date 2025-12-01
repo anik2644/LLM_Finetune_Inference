@@ -46,4 +46,33 @@ The fine-tuned model is based on:
 ### 🔧 Fine-Tuning Steps
 
 1. **Dataset Preparation**  
-   The dataset was transformed into text-to-text format:  
+   The dataset was transformed into text-to-text format:
+
+
+## 📦 Repositories
+
+### 📁 GitHub Code Repository  
+Contains training notebook + inference code:  
+👉 **https://github.com/anik2644/LLM_Finetune_Inference**
+
+### 🤗 Hugging Face Model Repository  
+*(Replace this link with your model link if different)*  
+👉 `https://huggingface.co/<your_hf_username>/<your_du_tsc_model>`
+
+---
+
+## 🛠️ Requirements
+
+You will need:
+
+- Python 3.x  
+- Hugging Face Transformers  
+- Datasets  
+- PyTorch  
+- (Optional) Accelerate  
+- Jupyter Notebook / Colab  
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
