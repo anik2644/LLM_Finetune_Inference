@@ -49,10 +49,8 @@ The fine-tuned model is based on:
    The dataset was transformed into text-to-text format:
 
 
-## 📦 Repositories
 
-### 🤗 Hugging Face Model Repository  
-*(Replace this link with your model link if different)*  
+## 🤗 Hugging Face Model Repository  
 👉 **https://huggingface.co/mhdank/testing_checkpoint_new**
 
 ---
