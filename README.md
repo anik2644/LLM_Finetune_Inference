@@ -51,10 +51,6 @@ The fine-tuned model is based on:
 
 ## 📦 Repositories
 
-### 📁 GitHub Code Repository  
-Contains training notebook + inference code:  
-👉 **https://github.com/anik2644/LLM_Finetune_Inference**
-
 ### 🤗 Hugging Face Model Repository  
 *(Replace this link with your model link if different)*  
 👉 **https://huggingface.co/mhdank/testing_checkpoint_new**
